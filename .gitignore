@@ -48,6 +48,7 @@ web_modules/
 # Hide Trash from git & pages
 trash/
 pages/
+robotos.txt
 
 # TypeScript cache
 *.tsbuildinfo
