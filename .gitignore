@@ -49,10 +49,10 @@ web_modules/
 trash/
 pages/
 
-robots.txt
-/scrape_old.js
-/scrape.rar
-/sitemap.xml
+robots
+scrape_old
+scrape
+sitemap
 
 # TypeScript cache
 *.tsbuildinfo
