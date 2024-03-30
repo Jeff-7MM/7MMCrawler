@@ -50,9 +50,9 @@ trash/
 pages/
 
 robots.txt
-scrape_old.js
-scrape.rar
-sitemap.xml
+/scrape_old.js
+/scrape.rar
+/sitemap.xml
 
 # TypeScript cache
 *.tsbuildinfo
