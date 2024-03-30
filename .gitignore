@@ -48,7 +48,11 @@ web_modules/
 # Hide Trash from git & pages
 trash/
 pages/
-robotos.txt
+
+robots.txt
+scrape_old.js
+scrape.rar
+sitemap.xml
 
 # TypeScript cache
 *.tsbuildinfo
